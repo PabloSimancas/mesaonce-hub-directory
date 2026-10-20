@@ -1,0 +1,4 @@
+{
+  "payload": "{\"kind\":\"mesaonce.hub_directory.v1\",\"version\":1,\"issued_at\":\"2026-10-20T21:38:05.899Z\",\"urls\":[\"https://mesaonce-api.147-93-4-12.sslip.io\"]}",
+  "sig": "YF/gdclomFjEraJRaHTTThuRG1QjiMuti0wLSRwtglKt3/4oyEdI2Tu+XP7oLTbrsQwV2IZKJqBtXxocQSMwAQ=="
+}
